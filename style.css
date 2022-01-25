@@ -1,0 +1,59 @@
+nav {
+  background-color: rgba(6, 18, 22, 0.932);
+}
+
+.list {
+  list-style: none;
+  /* margin-right: 350px; */
+  font-size: 30px;
+  font-family: fantasy;
+  background-color: hsla(hue, saturation, lightness, alpha);
+}
+
+ul {
+  display: flex;
+  /* margin-left: 140px;  */
+  justify-content: space-around;
+}
+#background {
+  background-image: url(https://i.pinimg.com/originals/03/f1/dd/03f1dd0ac70cbb94211577d3dc854ccd.jpg);
+}
+
+#cssPic {
+  width: 450px;
+  height: 350px;
+}
+
+#HOME {
+ color:turquoise; 
+}
+
+#para1 {
+  color: tomato;
+  font-size: 25px;
+}
+
+#para2{
+    color:tomato ;
+    font-size: 25px;
+}
+#para3{
+    color: tomato;
+    font-size: 25px;
+}
+
+#ABOUT{
+    color: turquoise;
+    font-size: 25px;
+}
+
+
+#desPic{
+    width: 450px;
+    height: 350px;
+}
+#desPic2{
+    width: 500px;
+    height: 350px;
+}
+
